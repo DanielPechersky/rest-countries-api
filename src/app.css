@@ -1,0 +1,27 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.theme-text {
+    @apply text-light-text dark:text-dark-text
+}
+
+.theme-input {
+    @apply text-light-input dark:text-dark-input
+}
+
+.theme-background {
+    @apply bg-light-background dark:bg-dark-background
+}
+
+.theme-element {
+    @apply bg-light-element dark:bg-dark-element
+}
+
+.factlist {
+    @apply [&>dt]:after:content-[':_'] [&>*]:inline [&>dd]:after:content-['\A'] [&>dd]:after:whitespace-pre-line [&>dd]:font-light
+}
+
+:root {
+    @apply theme-text theme-background font-main font-normal
+}
