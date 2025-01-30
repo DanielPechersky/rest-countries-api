@@ -18,7 +18,8 @@ const config = {
 			precompress: false,
 			strict: true
 		}),
-		router: { type: 'hash' }
+		router: { type: 'hash' },
+		paths: { base: '/rest-countries-api' },
 	}
 };
 
