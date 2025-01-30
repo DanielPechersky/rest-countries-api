@@ -63,9 +63,10 @@
 		<h2 class="inline-block mt-14 mr-3 mb-4">Border Countries:</h2>
 		<menu class="inline-flex flex-wrap gap-2 max-w-80">
 			{#each data.borders as [code, name] (countryId(code))}
-				<li class="inline theme-element rounded shadow min-w-24 px-2 py-1">
-					<a href={`#/country/${countryId(code)}`} class="w-full h-full text-center font-light"
-						>{name}</a
+				<li class="inline theme-element rounded shadow min-w-24">
+					<a
+						href={`#/country/${countryId(code)}`}
+						class="w-full h-full block text-center font-light px-2 py-1">{name}</a
 					>
 				</li>
 			{/each}
