@@ -17,8 +17,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,9 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-WIP
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Screenshot 2025-02-03 at 08 34 33@2x](https://github.com/user-attachments/assets/d25d5ef1-853d-41a1-9560-9f9a31786c4d)
 
 ### Links
 
