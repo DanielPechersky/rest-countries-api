@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/rest-countries-api-using-svelte-and-tailwind-2XgzokXOkx)
 - [Live Site URL](https://danielpechersky.github.io/rest-countries-api/)
 
 ## My process
