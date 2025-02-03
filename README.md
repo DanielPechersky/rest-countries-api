@@ -1,38 +1,74 @@
-# sv
+# Frontend Mentor - REST Countries API with color theme switcher solution
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+[See the live site](https://danielpechersky.github.io/rest-countries-api/)
 
-## Creating a project
+This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Table of contents
 
-```bash
-# create a new project in the current directory
-npx sv create
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-# create a new project in my-app
-npx sv create my-app
-```
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Developing
+## Overview
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### The challenge
 
-```bash
-npm run dev
+Users should be able to:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- [x] See all countries from the API on the homepage
+- [x] Search for a country using an `input` field
+- [x] Filter countries by region
+- [x] Click on a country to see more detailed information on a separate page
+- [x] Click through to the border countries on the detail page
+- [x] Toggle the color scheme between light and dark mode *(optional)*
 
-## Building
+### Screenshot
 
-To create a production version of your app:
+WIP
 
-```bash
-npm run build
-```
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-You can preview the production build with `npm run preview`.
+### Links
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Live Site URL](https://danielpechersky.github.io/rest-countries-api/)
+
+## My process
+
+### Built with
+
+- Svelte
+- Tailwind
+- Typescript
+- Font Awesome Icons
+
+### What I learned
+
+- I familiarized myself with Svelte.
+- I learned how to make a fully client-side website, which is a departure from my experience as a Rails developer.
+- I improved my intuition around CSS layouts.
+- I learned how to implement small details like a magnifying glass icon in a search bar.
+- I learned how to continuously deploy a Github Pages website.
+
+### Continued development
+
+I'd like to learn more about design, error robustness in SPAs, internationalization, and accessibility.
+
+### Useful resources
+
+- [MDN](https://developer.mozilla.org/en-US/) - For documentation of HTML/CSS.
+- [TailwindCSS](https://tailwindcss.com) - For tailwind classes. Easy to search.
+
+## Author
+
+- Frontend Mentor - [@DanielPechersky](https://www.frontendmentor.io/profile/DanielPechersky)
